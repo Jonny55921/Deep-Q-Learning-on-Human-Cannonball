@@ -30,8 +30,9 @@ The notebook includes:
 ## Project Structure
 ```bash
 .
-├── starter_code.ipynb # Main notebook
-└── README.md # This file
+├── VIDEOS
+├── README.md # This file
+└── starter_code.ipynb # Main notebook
 ```
 markdown
 Copy code
